@@ -1,0 +1,16 @@
+{
+  "symbol": "EPT",
+  "address": "0xF3d6c987DB22B043d83fdEd84Da4E24e53824298",
+  "overview":{
+        "en": "Ept is the first block chain eco-project to apply the bottom technology of block chain, adopt DPOS consensus mechanism, and use the pass economy system to solve the pain point of payment in the global mass entertainment industry. Ept has high efficiency, high openness and high adaptability. It can realize multi-chain parallelism. It is designed according to the principle of "single module and single function". It cooperates with cryptographic security components, user authorization components and other types of components to meet the specific technical needs, application needs and payment needs of various systems in the entertainment industry and devotes itself to the development of the global entertainment industry.",
+        "zh": "Ept是首家致力于在全球范围运用区块链底层技术，采用DPOS共识机制，使用通证经济体系解决全球大众娱乐行业支付痛点的区块链生态项目。Ept具有高效率、高开放性、高适配性的性能，可实现多链并行,按照“单一模块单一功能”原则设计，和密码学安全组件、用户授权组件等多类型组件配合，满足娱乐产业各体系特定的技术需求、应用需求和支付需求，致力于全球娱乐行业的发展。"
+  },
+  "email": "EPTGlobalOfficial@gmail.com",
+  "website": "http://ept.link/",
+  "whitepaper": "http://ept.link/pdf/ept-whitepage-en.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-03-20",
+  "links": {
+    "telegram": "https://t.me/EPTofficial",
+  }
+}
